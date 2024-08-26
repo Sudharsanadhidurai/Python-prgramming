@@ -1,0 +1,15 @@
+Variable are container for storing a data values.
+Example:-
+x = 5
+y = "John"
+print(x)
+print(y)
+output :-
+     5
+     john
+variable that are created outside the function is knowns as global variable . for example program,
+x = 'awesome'
+def myfunc():
+  x = 'fantastic'
+myfunc()
+print('Python is ' + x)
