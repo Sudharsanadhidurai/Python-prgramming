@@ -1,0 +1,29 @@
+Variables can store data of different types, and different types can do different things. 
+there are many type of data . there are given below 
+they are 
+       * int 
+       * float 
+       * double 
+       * char 
+       * string 
+       * complex etc..,
+ complex is a imagnary part called "J"
+ for example program , 
+ x = 3+5j
+y = 5
+z = -5j
+u = "sudharsan"
+k = 6.8
+p = 7.888888888
+print(type(x))
+print(type(y))
+print(type(z))
+print(type(u))
+print(type(k))
+
+output 
+    complex 
+    integer
+    string
+    float 
+    double
